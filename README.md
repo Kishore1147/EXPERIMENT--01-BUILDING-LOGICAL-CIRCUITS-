@@ -137,7 +137,6 @@ F8 = ((A XOR B) & (C XNOR D))
 | 5 | 32 |
 | 6 | 64 |
 
-Use this format to record the results:
 
 F1 Output
 
